@@ -374,7 +374,7 @@ hr{
     {
         height: 50px;
     }
-#contact input[type="submit"]
+#contact #send
     {
         background: #D43F52;
         border: 2px solid transparent;
@@ -382,7 +382,7 @@ hr{
         font-weight: bold;
         transition: all 0.4s ease-in-out;
     }
-#contact input[type="submit"]:hover
+#contact #send:hover
     {
         background: #ffffff;
         color: #D43F52;
