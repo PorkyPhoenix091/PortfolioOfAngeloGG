@@ -191,6 +191,13 @@ h1,h2,h3,h4,h5
     {
         padding-bottom: 10px;
     }
+#home p
+    {
+        font-weight: bold;
+        color: #d8d8d8;
+
+        
+    }
 #home .btn
     {
         background: transparent;
@@ -286,7 +293,9 @@ h1,h2,h3,h4,h5
         float: right;
     }
 /* end about */
-
+hr{
+    border: 100px;
+}
 /* start portfolio */
 #portfolio
     {
@@ -326,7 +335,9 @@ h1,h2,h3,h4,h5
 /* end portfolio */
 
 /* start contact */
-
+#contact{
+    background:#292828
+}
 #contact address
     {
       padding-bottom: 18px;
