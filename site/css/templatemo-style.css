@@ -428,6 +428,10 @@ hr{
         font-weight: bold;
         transition: all 0.4s ease-in-out;
     }
+ .checkbox{
+     
+ }
+
 #contact #send:hover
     {
         background: #ffffff;
